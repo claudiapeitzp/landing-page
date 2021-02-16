@@ -1,0 +1,58 @@
+body{
+	text-align: center;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: white;
+	background-image: url(images/abstract.jpg);
+	background-size: cover;
+	font-size: 20px;
+	line-height: 5px;
+}
+
+h1{
+	padding-top: 200px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 85px;
+	text-shadow: 2px 2px 2px rgb(50,50,50);
+	margin-bottom: 55px;
+	line-height: 30px;
+}
+
+.subtitle{
+	font-family: 'Oswald', sans-serif;
+	font-size: 30px;
+}
+
+.CTA{
+	text-decoration: none;
+	color: white;
+	background-color: #698B00;
+	padding: 10px 15px 10px 15px;
+	border-radius: 2px;
+	line-height: 50px;
+}
+
+.CTA:hover{
+	background-color: #4F5902;
+
+}
+
+.list{
+	list-style: none;
+	padding-left: 0;
+	padding-top: 150px;
+
+}
+
+.list li{
+	display: inline;
+	font-size: 30px;
+	letter-spacing: 5px;
+}
+
+.list a{
+	color: white;
+}
+
+.list a:hover{
+	color:grey;
+}
